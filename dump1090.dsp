@@ -97,6 +97,10 @@ SOURCE=.\dump1090.c
 # End Source File
 # Begin Source File
 
+SOURCE=.\global_data.c
+# End Source File
+# Begin Source File
+
 SOURCE=.\interactive.c
 # End Source File
 # Begin Source File
